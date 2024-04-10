@@ -1,9 +1,9 @@
 # 👋 H E L L O,  W O R L D
 
-## ```This is Satyam Kumar```
+# ```This is Satyam Kumar```
 
-* Aspiring full-stack developer
-* Looking for opportunities to create, and collaborate on projects and ideas.
+* 😇 Aspiring full-stack developer
+* 👔 Looking for opportunities to create, and collaborate on projects and ideas.
 
 ---
 
