@@ -4,7 +4,7 @@
 
 😇 Aspiring full-stack developer
 
-👔 Looking for opportunities to create, and collaborate on projects and ideas.
+👔 Looking for opportunities to create, and collaborate on projects and ideas
 
 🙃 If you can figure out where the above title is from, then we'll get along really well!
 
