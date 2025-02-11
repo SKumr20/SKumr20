@@ -1,10 +1,17 @@
 # 👋 **eps1.0_hellofriend.mov**
 
-### ```This is Satyam Kumar```
+## ```This is Satyam Kumar```
 
-😇 I make some stuff and post it here
+### 😇 I make some stuff and post it here
 
-✍🏻 Currently learning: React
+### ✍🏻 Currently learning: ```React```
+
+
+---
+
+### Find me on : 
+#### Mail : ```satyam.fcbf@gmail.com```
+#### LinkedIn : ```linkedin.com/in/satyamkumr20/```
 
 
 ---
