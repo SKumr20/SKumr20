@@ -2,11 +2,10 @@
 
 ### ```This is Satyam Kumar```
 
-😇 Front-end Developer
+😇 I make some stuff and post it here
 
-👔 Looking for opportunities to create, and collaborate on projects and ideas :)
+✍🏻 Currently learning: React
 
-🙃 If you can figure out where the above title is from, then we'll get along really well!
 
 ---
 
