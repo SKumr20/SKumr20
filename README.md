@@ -4,7 +4,7 @@
 
 ### 😇 I make some stuff and post it here
 
-### ✍🏻 Currently learning: ```React```
+### ✍🏻 Currently learning: ```Backend Using Node and Express```
 
 
 ---
@@ -23,7 +23,15 @@
 
 # Languages And Tools
 
-![JS](https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript&color=grey) ![CSS](https://img.shields.io/badge/css-red?style=for-the-badge&logo=css&color=blue) ![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&color=red) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-White?style=for-the-badge&logo=cplusplus) ![HTML5](https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=html5&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.JS-blue?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&color=red)
+![NodeJS](https://img.shields.io/badge/Node.JS-node?style=for-the-badge&logo=nodedotjs)
+![JS](https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript&color=grey) ![CSS](https://img.shields.io/badge/css-red?style=for-the-badge&logo=css&color=blue)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-White?style=for-the-badge&logo=cplusplus) ![HTML5](https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=html5&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-Appwrite?style=for-the-badge&logo=appwrite)
+![Firebase](https://img.shields.io/badge/Firebase-purple?style=for-the-badge&logo=firebase)
+![Zod](https://img.shields.io/badge/Zod-black?style=for-the-badge&logo=zod)
 
 
         
